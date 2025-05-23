@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechSolution - Soluções Tecnológicas</title>
+   
+</head>
+<body>
+
+    <header>
+        <h1>TechSolution</h1>
+        <p>Inovação para pequenas e médias empresas</p>
+    </header>
+
+    <section>
+        <h2>Quem Somos?</h2>
+        <p>A TechSolution é uma startup inovadora localizada em Salvador, especializada em soluções tecnológicas para pequenas e médias empresas. Estamos crescendo rapidamente e ajudando negócios a se modernizarem com eficiência.</p>
+    </section>
+
+    <section>
+        <h2>Serviços Oferecidos</h2>
+        <ul>
+            <li>Desenvolvimento de sites e sistemas personalizados</li>
+            <li>Consultoria em TI e infraestrutura</li>
+            <li>Suporte técnico remoto e presencial</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Nossa Equipe</h2>
+        <ul>
+            <li><strong>Daniel Prata</strong> – Desenvolvedor Full Stack</li>
+            <li><strong>Levi Silva</strong> – Analista de Sistemas</li>
+        </ul>
+    </section>
+
+    <section>
+        <img src="o-que-e-tecnologia-da-informacao-1024x578.jpg" alt="Imagem representando tecnologia e inovação">
+    </section>
+    
+    <section>
+        <h2>Contato</h2>
+        <p>Email: contato@techsolution.com.br</p>
+        <p>Telefone: (71) 99999-8888</p>
+        <p>
+            <a href="https://www.instagram.com/techsolution" target="_blank">Nos siga no Instagram</a><br>
+            <a href="https://www.google.com/maps?q=salvador+bahia" target="_blank">Veja nossa localização no mapa</a>
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 TechSolution - Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
